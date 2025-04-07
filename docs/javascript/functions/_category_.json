@@ -1,0 +1,8 @@
+{
+  "label": "Functions",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Block of code that performs a task, functions can be passed one or more values and can return a value"
+  }
+}
